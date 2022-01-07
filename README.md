@@ -2,7 +2,6 @@
 
 - 🔭 Estou estudando Full-Stack
 - 🌱 Estudando HTML5 & CSS3
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://beacons.ai/juniorpedroso">
