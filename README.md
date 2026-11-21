@@ -1,7 +1,7 @@
 ### Olá! Eu sou Junior Pedroso
 
 - 🔭 Estou estudando Full-Stack
-- 🌱 Estudando HTML5 & CSS3
+- 🌱 Estudando Python
 
 <div align="center">
   <a href="https://beacons.ai/juniorpedroso">
